@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="58px" height="56px" viewBox="0 0 58 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon/ Stocks &amp; Bonds</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Icon/-Stocks-&amp;-Bonds" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Stocks-&amp;-Bonds">
+            <polygon id="Fill-1" fill="#5BBF89" points="43 50 52 50 52 15 43 15"></polygon>
+            <polygon id="Stroke-2" stroke="#5BBF89" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="43 50 52 50 52 15 43 15"></polygon>
+            <polygon id="Fill-3" fill="#D3E5EF" points="31 50 38 50 38 28 31 28"></polygon>
+            <polygon id="Stroke-4" stroke="#D3E5EF" stroke-width="2" stroke-linejoin="round" points="31 50 38 50 38 28 31 28"></polygon>
+            <polygon id="Fill-5" fill="#D3E5EF" points="19 50 26 50 26 38 19 38"></polygon>
+            <polygon id="Stroke-6" stroke="#D3E5EF" stroke-width="2" stroke-linejoin="round" points="19 50 26 50 26 38 19 38"></polygon>
+            <polygon id="Fill-7" fill="#D3E5EF" points="7 50 14 50 14 42 7 42"></polygon>
+            <polygon id="Stroke-8" stroke="#D3E5EF" stroke-width="2" stroke-linejoin="round" points="7 50 14 50 14 42 7 42"></polygon>
+            <g id="Group-15" fill="#4B5E69" fill-rule="nonzero">
+                <path d="M11.2425356,25.9701425 C11.3634303,25.9399188 11.5861456,25.8797498 11.9039149,25.7870671 C12.4262128,25.6347302 13.02998,25.4447517 13.7084491,25.2145568 C15.6388709,24.5595923 17.7865188,23.7129234 20.0972103,22.6538565 C26.6911479,19.6316351 33.2828851,15.5117993 39.4362824,10.1275767 C42.3904919,7.54264335 45.176116,4.71833009 47.7649112,1.64413575 C48.1206575,1.22168696 48.0665845,0.590835151 47.6441357,0.235088802 C47.221687,-0.120657547 46.5908352,-0.0665845355 46.2350888,0.355864254 C43.7127729,3.35111436 40.998397,6.10318999 38.1192732,8.62242331 C32.1198927,13.8718812 25.6907966,17.8900663 19.2639008,20.8357268 C17.0173006,21.8654186 14.9331777,22.687044 13.0658564,23.3205994 C12.4151155,23.5413865 11.8388697,23.7227053 11.3439149,23.8670671 C11.0513327,23.9524035 10.8535836,24.0058277 10.7574644,24.0298575 C10.2216695,24.1638062 9.89590877,24.7067407 10.0298575,25.2425356 C10.1638062,25.7783305 10.7067407,26.1040912 11.2425356,25.9701425 Z" id="Stroke-9"></path>
+                <path d="M47,1 L47,8 C47,8.55228475 47.4477153,9 48,9 C48.5522847,9 49,8.55228475 49,8 L49,0 C49,-0.55228475 48.5522847,-1 48,-1 L40,-1 C39.4477153,-1 39,-0.55228475 39,0 C39,0.55228475 39.4477153,1 40,1 L47,1 Z" id="Stroke-11"></path>
+                <path d="M-1,9 L-1,54 C-1,55.6562847 0.34371525,57 2,57 L58,57 C58.5522847,57 59,56.5522847 59,56 C59,55.4477153 58.5522847,55 58,55 L2,55 C1.44828475,55 1,54.5517153 1,54 L1,9 C1,8.44771525 0.55228475,8 0,8 C-0.55228475,8 -1,8.44771525 -1,9 Z" id="Stroke-13"></path>
+            </g>
+        </g>
+    </g>
+</svg>

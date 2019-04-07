@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="19px" viewBox="0 0 22 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>Glyph/ Tools</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="17 12.6368 17 0.664 0.3631 0.664 0.3631 12.6368"></polygon>
+    </defs>
+    <g id="Glyph/-Tools" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Page-1">
+            <path d="M0.2998,15.8663 C-0.0992,16.2653 -0.0992,16.9133 0.2998,17.3123 L1.0238,18.0363 C1.4228,18.4353 2.0708,18.4353 2.4698,18.0363 L12.5968,7.9093 L10.4268,5.7393 L0.2998,15.8663 Z" id="Fill-1" fill="#616974"></path>
+            <g id="Group-5" transform="translate(5.000000, 0.335900)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Clip-4"></g>
+                <path d="M14.8301,4.6798 C14.1061,3.9568 12.6601,3.9568 11.9361,4.6798 L11.2131,3.9568 C11.6121,3.5578 11.6121,2.9088 11.2131,2.5098 L10.4901,1.7858 C10.0911,1.3868 9.4421,1.3868 9.0431,1.7858 L8.9451,1.8838 C7.5721,0.9968 4.5371,-0.3002 0.3631,1.7858 L1.0861,2.5098 C1.0861,2.5098 3.8901,2.4198 6.4661,4.9958 L9.0431,7.5738 C9.0431,7.5738 7.5971,9.0208 9.0431,10.4668 C10.4901,11.9128 11.2131,12.6368 11.2131,12.6368 L17.0001,6.8498 L14.8301,4.6798 Z" id="Fill-3" fill="#616974" mask="url(#mask-2)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

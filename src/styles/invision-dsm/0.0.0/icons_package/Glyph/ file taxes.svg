@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="19px" viewBox="0 0 22 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>Glyph/ file taxes</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="22 9.49995 22 0 0 0 0 9.49995 0 18.9999 22 18.9999"></polygon>
+    </defs>
+    <g id="Glyph/-file-taxes" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Page-1">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Clip-2"></g>
+            <path d="M16.48,8.8799 L15.54,7.1099 C13.264,8.4679 11.309,10.3039 9.81,12.4899 L7.67,10.6199 L6.35,12.1299 L10.23,15.5299 L10.85,14.5299 C12.254,12.2289 14.184,10.2929 16.48,8.8799 Z M22,3.9999 L22,16.9999 C22,18.1049 21.105,18.9999 20,18.9999 L2,18.9999 C0.896,18.9999 0,18.1049 0,16.9999 L0,3.9999 L8.5,3.9999 L22,3.9999 Z M7.75,2.9999 L0,2.9999 L0,-0.0001 L5.5,-0.0001 L7.75,2.9999 Z" id="Fill-1" fill="#4A5D68" mask="url(#mask-2)"></path>
+        </g>
+    </g>
+</svg>

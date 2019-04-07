@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="18px" viewBox="0 0 22 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>Glyph/ income</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Glyph/-income" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Page-1" fill="#4A5D68">
+            <polygon id="Fill-1" points="4 2 18 2 18 0 4 0"></polygon>
+            <polygon id="Fill-2" points="2 5 20 5 20 3 2 3"></polygon>
+            <path d="M11,15 C9.481,15 8.25,13.657 8.25,12 C8.25,10.343 9.481,9 11,9 C12.519,9 13.75,10.343 13.75,12 C13.75,13.657 12.519,15 11,15 Z M0,18 L22,18 L22,6 L0,6 L0,18 Z" id="Fill-3"></path>
+        </g>
+    </g>
+</svg>

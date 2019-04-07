@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="22px" viewBox="0 0 20 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>Glyph/ personal info</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="-1.34837754e-05 0 10 0 10 11 -1.34837754e-05 11"></polygon>
+        <polygon id="path-3" points="0 0.443 0 11 9.9998 11 19.9996 11 19.9996 0.443 5.42101086e-20 0.443"></polygon>
+    </defs>
+    <g id="Glyph/-personal-info" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Page-1">
+            <g id="Group-3" transform="translate(5.000000, 0.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Clip-2"></g>
+                <path d="M4.916,9.021 C4.623,9.012 4.333,8.962 4.032,8.863 C2.813,8.496 1.997,7.403 2,6.141 L2,4.531 L2,4.363 C2.401,4.194 2.765,3.949 3.07,3.641 C3.671,4.087 4.349,4.422 5.07,4.63 C6.013,4.885 7.007,4.885 7.95,4.63 L8,4.625 L8,6.156 C7.945,7.784 6.563,9.056 4.916,9.021 M3.424,10.747 C3.886,10.898 4.368,10.983 4.857,10.998 C4.906,10.999 4.954,11 5.002,11 C7.693,11 9.921,8.875 9.999,6.2 L10,4.676 C9.943,2.045 7.724,-0.08 5.09,0.002 L4.929,0.002 C2.301,-0.05 0.056,2.045 3.58423686e-16,4.698 L3.58423686e-16,6.139 C-0.005,8.277 1.381,10.131 3.424,10.747" id="Fill-1" fill="#4A5D68" mask="url(#mask-2)"></path>
+            </g>
+            <g id="Group-6" transform="translate(0.000000, 11.000000)">
+                <mask id="mask-4" fill="white">
+                    <use xlink:href="#path-3"></use>
+                </mask>
+                <g id="Clip-5"></g>
+                <path d="M15.9146,0.918 C15.2146,0.75 14.5296,0.62 13.8186,0.52 L13.3266,0.45 L9.9996,3.774 L6.6666,0.443 L6.1656,0.522 C5.5016,0.626 4.8276,0.753 4.1146,0.912 C1.7446,1.411 0.0526,3.453 -0.0004,5.9 L-0.0004,7.514 L0.3996,7.814 C3.2266,9.939 6.6136,11 9.9996,11 C13.3866,11 16.7736,9.939 19.6006,7.814 L19.9996,7.514 L19.9996,5.879 C19.9476,3.453 18.2556,1.411 15.9146,0.918" id="Fill-4" fill="#4A5D68" mask="url(#mask-4)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

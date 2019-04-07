@@ -1,0 +1,21 @@
+<html>
+  <body>
+    <form ref="uploadForm" id="uploadForm" enctype="multipart/form-data">
+        <input type="file" id="sampleFile" name="sketchFile" />
+        <input type='submit' id="submitFile" value="Upload!" />
+    </form>     
+  </body>
+  <script type="text/javascript">
+    document.getElementById('submitFile').addEventListener('click', () => {
+      let input = document.querySelector('#sampleFile')
+      console.log(input.files[0])
+      let data = new FormData()
+      data.append('file', input.files[0])
+      fetch('http://localhost:3000/upload', {
+        method: 'POST',
+        body: data
+      })
+    });
+  // want this to be a drag-and-drop interface eventually, but for a first pass just used a simple form
+  </script>
+</html>

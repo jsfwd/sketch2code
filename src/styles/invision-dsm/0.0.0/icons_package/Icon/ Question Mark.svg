@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="52px" height="52px" viewBox="0 0 52 52" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon/ Question Mark</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 52 52 52 52 0 0 0"></polygon>
+    </defs>
+    <g id="Icon/-Question-Mark" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Page-1">
+            <path d="M51,26 C51,39.808 39.807,51 26,51 C12.193,51 1,39.808 1,26 C1,12.193 12.193,1 26,1 C39.807,1 51,12.193 51,26 Z" id="Fill-1" fill="#D3E5EF"></path>
+            <path d="M26,2 C12.767,2 2,12.767 2,26 C2,39.233 12.767,50 26,50 C39.233,50 50,39.233 50,26 C50,12.767 39.233,2 26,2 M26,52 C11.664,52 0,40.337 0,26 C0,11.663 11.664,0 26,0 C40.336,0 52,11.663 52,26 C52,40.337 40.336,52 26,52" id="Fill-3" fill="#4F5661"></path>
+            <path d="M26,46 C14.972,46 6,37.028 6,26 C6,14.973 14.972,6 26,6 C37.028,6 46,14.973 46,26 C46,37.028 37.028,46 26,46" id="Fill-5" fill="#FFFFFF"></path>
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Clip-8"></g>
+            <path d="M22.869,40.868 L28.228,40.868 L28.228,35.348 L22.869,35.348 L22.869,40.868 Z M23.229,25.51 L23.429,25.31 C28.508,25.149 30.828,23.51 30.828,20.87 L30.828,20.791 C30.828,18.551 29.108,16.991 26.228,16.991 C23.708,16.991 21.629,18.111 19.709,20.15 L16.71,16.951 C19.029,14.312 22.029,12.512 26.348,12.512 C31.947,12.512 35.747,15.632 35.747,20.631 L35.747,20.711 C35.747,25.75 32.107,28.029 27.668,28.789 L27.268,31.988 L24.029,31.988 L23.229,25.51 Z" id="Fill-7" fill="#53C27C" mask="url(#mask-2)"></path>
+        </g>
+    </g>
+</svg>

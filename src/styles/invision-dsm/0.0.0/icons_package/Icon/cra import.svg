@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="60px" viewBox="0 0 50 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>cra import</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="⚙️-Icons-–-2017" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icons" transform="translate(-1929.000000, -2164.000000)">
+            <g id="cra-import" transform="translate(1930.000000, 2165.000000)">
+                <g id="W2-Copy">
+                    <path d="M37,46 L11,46 C10.4,46 10,45.6 10,45 L10,33 C10,32.4 10.4,32 11,32 L37,32 C37.6,32 38,32.4 38,33 L38,45 C38,45.6 37.6,46 37,46 Z" id="Shape" fill="#D3E5EF" fill-rule="nonzero"></path>
+                    <path d="M35,0 L8,0 L8,20 L40,20 L40,5 C36.5,1.5 38.5,3.5 35,0 Z" id="Shape" stroke="#4F5661" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <polyline id="Shape" stroke="#4F5661" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="34 0 34 6 40 6"></polyline>
+                    <polyline id="Shape" stroke="#4F5661" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="28.1 27 43 27 43 52 5 52 5 27 20.2 27"></polyline>
+                    <path d="M24,24 L24,37" id="Shape" stroke="#4F5661" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <polyline id="Shape" stroke="#4F5661" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="19 34 24 39 29 34"></polyline>
+                    <path d="M45,58 L3,58 C1.3,58 0,56.7 0,55 L0,52 L48,52 L48,55 C48,56.7 46.7,58 45,58 Z" id="Shape" stroke="#4F5661" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <rect id="Rectangle-path" stroke="#4F5661" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" x="20" y="52" width="8" height="3"></rect>
+                </g>
+                <g id="CAN-Flag" transform="translate(12.000000, 4.000000)" fill="#FF8979">
+                    <g id="flag">
+                        <rect id="Rectangle-15" x="0" y="0.702689653" width="4.74910714" height="9.70229889"></rect>
+                        <rect id="Rectangle-15-Copy" x="13.2508929" y="0.702689653" width="4.74910714" height="9.70229889"></rect>
+                    </g>
+                    <g id="maple-leaf-38777" transform="translate(5.000000, 1.000000)" fill-rule="nonzero">
+                        <path d="M3.80930625,0.00220282288 L3.14432569,1.31517337 C3.0688771,1.45786342 2.93368578,1.44462446 2.79848794,1.36491972 L2.31702157,1.10102154 L2.67586957,3.11770588 C2.75132033,3.48615004 2.50923608,3.48615004 2.38973104,3.32683528 L1.5495472,2.33113731 L1.41313535,2.83677327 C1.39741253,2.90317517 1.32825542,2.97291654 1.22448234,2.95630946 L0.162036387,2.71983642 L0.441082375,3.79382271 C0.500833809,4.03278494 0.547413995,4.13173574 0.380776155,4.19475851 L0.00210818308,4.38316815 L1.83102771,5.95578543 C1.90341084,6.01525284 1.94000707,6.12225716 1.91421718,6.2191329 L1.75414539,6.77521351 C2.38388078,6.69837905 2.94845612,6.6295959 3.57816975,6.55283854 C3.63413124,6.55210707 3.72691088,6.60245272 3.72651709,6.67067855 L3.64309483,8.70791523 L3.94927089,8.70791523 L3.90106769,6.67506217 C3.90068717,6.6068077 3.984825,6.55210941 4.04078649,6.55284074 C4.67050012,6.6295893 5.23507547,6.69837244 5.86481086,6.77521571 L5.70473906,6.21913511 C5.67894917,6.12225055 5.71554366,6.01524623 5.78792853,5.95578763 L7.61684806,4.38317035 L7.23818009,4.19476071 C7.07154442,4.13173134 7.11812243,4.03278714 7.17787387,3.79382492 L7.45691986,2.71983862 L6.39447391,2.95631166 C6.290703,2.9729194 6.22154415,2.90317737 6.20582089,2.83677548 L6.06940905,2.33113951 L5.2292252,3.32683748 C5.10971363,3.48614343 4.86763591,3.48614343 4.94308667,3.11770809 L5.30193468,1.10102374 L4.8204683,1.36492192 C4.68526828,1.44462666 4.55008131,1.45786563 4.47463055,1.31517557" id="Shape"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

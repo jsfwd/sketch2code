@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="60px" viewBox="0 0 50 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>t4 import</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="⚙️-Icons-–-2017" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icons" transform="translate(-2653.000000, -2164.000000)">
+            <g id="t4-import" transform="translate(2654.000000, 2165.000000)">
+                <path d="M37,46 L11,46 C10.4,46 10,45.6 10,45 L10,33 C10,32.4 10.4,32 11,32 L37,32 C37.6,32 38,32.4 38,33 L38,45 C38,45.6 37.6,46 37,46 Z" id="Shape" fill="#D3E5EF" fill-rule="nonzero"></path>
+                <path d="M35,0 L8,0 L8,20 L40,20 L40,5 C36.5,1.5 38.5,3.5 35,0 Z" id="Shape" stroke="#4F5661" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                <polyline id="Shape" stroke="#4F5661" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="34 0 34 6 40 6"></polyline>
+                <text id="T4" fill="#53C27C" font-family="AvenirNextforINTUIT-Demi, AvenirNext forINTUIT" font-size="11" font-weight="500" letter-spacing="-0.5">
+                    <tspan x="15.5835" y="13.915">T4</tspan>
+                </text>
+                <polyline id="Shape" stroke="#4F5661" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="28.1 27 43 27 43 52 5 52 5 27 20.2 27"></polyline>
+                <path d="M24,24 L24,37" id="Shape" stroke="#4F5661" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                <polyline id="Shape" stroke="#4F5661" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="19 34 24 39 29 34"></polyline>
+                <path d="M45,58 L3,58 C1.3,58 0,56.7 0,55 L0,52 L48,52 L48,55 C48,56.7 46.7,58 45,58 Z" id="Shape" stroke="#4F5661" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                <rect id="Rectangle-path" stroke="#4F5661" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" x="20" y="52" width="8" height="3"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

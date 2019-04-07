@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="23px" height="19px" viewBox="0 0 23 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>Glyph/ education expense</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 19 0 0 22.111 0 22.111 19"></polygon>
+    </defs>
+    <g id="Glyph/-education-expense" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Page-1">
+            <path d="M4.0555,7.7197 L4.0555,12.4797 C4.9155,13.1397 7.4555,14.9497 11.0655,14.9497 C13.5355,14.9497 15.4955,14.0997 16.7555,13.3597 L16.7555,8.2597 L11.0555,10.6397 L4.0555,7.7197 Z" id="Fill-1" fill="#616974"></path>
+            <g id="Group-5">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Clip-4"></g>
+                <path d="M20.2274,15 L20.0554,15 L20.0554,6.665 C20.0554,6.285 19.8394,5.937 19.4994,5.769 L19.4334,5.736 L22.1114,4.618 L11.0554,0 L-0.0006,4.618 L11.0554,9.235 L16.9894,6.757 L18.0554,7.286 L18.0554,15 L17.8834,15 C17.6124,15 17.3814,15.149 17.3484,15.347 L16.8094,18.557 C16.7704,18.792 17.0214,19 17.3444,19 L20.7664,19 C21.0894,19 21.3404,18.792 21.3014,18.557 L20.7624,15.347 C20.7294,15.149 20.4984,15 20.2274,15" id="Fill-3" fill="#616974" mask="url(#mask-2)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

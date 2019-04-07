@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="15px" height="22px" viewBox="0 0 15 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>Glyph/ Start taxes</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="4.9 5 0.1 5 0.1 0.0003 4.9 0.0003 4.9 5"></polygon>
+    </defs>
+    <g id="Glyph/-Start-taxes" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Page-1">
+            <g id="Group-3" transform="translate(5.000000, 16.999700)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Clip-2"></g>
+                <path d="M2.5,0.0003 C1.175,0.0003 0.1,0.8153 0.1,1.8203 C0.1,2.5483 0.82,3.0953 1.54,3.6413 C2.26,4.1873 1.83,5.0003 1.83,5.0003 C4.287,4.4913 2.74,2.0023 3.22,2.1853 C3.7,2.3663 4.18,3.2763 4.18,3.2763 C4.18,3.2763 4.9,2.7303 4.9,1.8203 C4.9,0.8153 3.825,0.0003 2.5,0.0003" id="Fill-1" fill="#616974" mask="url(#mask-2)"></path>
+            </g>
+            <path d="M7.5,7.8389 C6.441,7.8389 5.58,6.9779 5.58,5.9199 C5.58,4.8609 6.441,3.9999 7.5,3.9999 C8.559,3.9999 9.42,4.8609 9.42,5.9199 C9.42,6.9779 8.559,7.8389 7.5,7.8389 Z M11.645,10.0759 L11,10.0759 L11,9.9999 L11,5.3479 C10.67,1.9919 7.687,-0.0001 7.687,-0.0001 L7.313,-0.0001 C7.313,-0.0001 4.33,1.9919 4,5.3479 L4,9.9999 L4,10.0759 L3.355,10.0759 L0,14.1779 L0,14.9999 L0,16.9999 L4,16.9999 L4,14.9999 L5.514,14.9999 L5.076,15.9999 L9.924,15.9999 L9.486,14.9999 L11,14.9999 L11,16.9999 L15,16.9999 L15,14.9999 L15,14.1779 L11.645,10.0759 Z" id="Fill-4" fill="#616974"></path>
+        </g>
+    </g>
+</svg>

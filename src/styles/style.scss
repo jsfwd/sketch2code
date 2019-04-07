@@ -1,0 +1,35 @@
+/*!
+Theme Name: TurboTax (Invision DSM)
+Author: Jocelyn Stretton <jocelyn_stretton@intuit.com>
+Description: Description
+Version: 0.0.0
+
+Skeleton repository to integrate InVision DSM library design tokens
+with the sketch2code app.
+*/
+
+
+/*--------------------------------------------------------------
+# Invision DSM
+--------------------------------------------------------------*/
+@import "invision-dsm/0.0.0/style-params.scss";
+
+/*--------------------------------------------------------------
+# Invision DSM: placeholders until we can get this from DSM
+--------------------------------------------------------------*/
+@import "invision-dsm-placeholders/fonts.scss";
+
+/*--------------------------------------------------------------
+# Setup
+--------------------------------------------------------------*/
+@import "design-tokens-decisions";
+@import "mixins";
+@import "typography.scss";
+
+/*--------------------------------------------------------------
+# Skeleton
+--------------------------------------------------------------*/
+@import "layout";
+@import "zone-a";
+@import "content";
+@import "app-site-message";

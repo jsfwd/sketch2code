@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="22px" viewBox="0 0 21 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>Glyph/ ipad</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Glyph/-ipad" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Page-1" fill="#616974">
+            <path d="M6,18 L19,18 L19,4 L6,4 L6,18 Z M14,21 L12,21 C11.448,21 11,20.553 11,20 C11,19.447 11.448,19 12,19 L14,19 C14.552,19 15,19.447 15,20 C15,20.553 14.552,21 14,21 Z M13,1 C13.552,1 14,1.447 14,2 C14,2.553 13.552,3 13,3 C12.448,3 12,2.553 12,2 C12,1.447 12.448,1 13,1 Z M19,0 L6,0 C4.896,0 4,0.896 4,2 L4,20 C4,21.104 4.896,22 6,22 L19,22 C20.104,22 21,21.104 21,20 L21,2 C21,0.896 20.104,0 19,0 Z" id="Fill-1"></path>
+            <path d="M1,6 C0.448,6 0,6.447 0,7 L0,20 C0,20.553 0.448,22 1,22 C1.552,22 2,20.553 2,20 L2,7 C2,6.447 1.552,6 1,6" id="Fill-3"></path>
+        </g>
+    </g>
+</svg>

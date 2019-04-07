@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>Glyph/ Rotate</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Glyph/-Rotate" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M20,8 L20,0 L17.062,2.938 C15.192,1.068 12.663,0 10,0 C4.486,0 0,4.486 0,10 C0,15.514 4.486,20 10,20 C14.607,20 18.599,16.881 19.706,12.414 C19.839,11.878 19.512,11.336 18.976,11.203 C18.446,11.072 17.898,11.396 17.765,11.934 C16.879,15.505 13.687,18 10,18 C5.589,18 2,14.411 2,10 C2,5.589 5.589,2 10,2 C12.131,2 14.153,2.854 15.649,4.351 L12,8 L20,8 Z" id="Page-1" fill="#616974"></path>
+    </g>
+</svg>

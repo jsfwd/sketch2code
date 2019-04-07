@@ -1,0 +1,34 @@
+body {
+	margin: 0;
+	background: $app-background;
+}
+
+.site-header {
+	padding: $layout-gutter;
+	background: $header-background;
+	color: $header-text-color;
+}
+
+.site-header-logo {
+    /*position: absolute;
+    z-index: 5;
+    top: 12px;
+    left: 70px;*/
+    display: block;
+    overflow: hidden;
+    width: 144px;
+    height: 32px;
+    text-indent: -999em;
+    background: url(/images/logo-turbotax.svg);
+}
+
+.site-footer {
+	padding: $layout-gutter;
+	background: $footer-background;
+	text-align: center;
+}
+
+/*.site-content {
+	padding: $layout-gutter;
+}*/
+

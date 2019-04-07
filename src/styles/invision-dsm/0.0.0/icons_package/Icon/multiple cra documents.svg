@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="56px" viewBox="0 0 48 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>multiple cra documents</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="⚙️-Icons-–-2017" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icons" transform="translate(-2293.000000, -2160.000000)">
+            <g id="multiple-cra-documents" transform="translate(2294.000000, 2161.000000)">
+                <polygon id="Shape" stroke="#D3E5EF" stroke-width="2" fill="#D3E5EF" fill-rule="nonzero" stroke-linecap="round" stroke-linejoin="round" points="8.7 7.31798336 11.5 7.31798336 11.5 46.1 34.1460261 46.1 34.1460261 48.1 8.5 48.1"></polygon>
+                <path d="M11.5,21.1 L11.5,46.1 L45.5,46.1 L45.5,10.2 C42,6.7 39,3.7 35.4,0.1 L11.5,0.1 C11.5,10.5305325 11.5,16.3407101 11.5,17.5305325 C11.5,18.720355 11.5,19.9101775 11.5,21.1 Z" id="Shape" stroke="#4F5661" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                <polyline id="Shape" stroke="#4F5661" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="34.5 50.1 34.5 53.1 0.5 53.1 0.5 7.1 6.99054451 7.1"></polyline>
+                <polyline id="Shape" stroke="#4F5661" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="45.5 10.1 34.5 10.1 34.5 0.7"></polyline>
+                <path d="M5.5,40 L8.87793805,40" id="Shape" stroke="#D3E5EF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M5.5,35 L8.87793805,35" id="Shape" stroke="#D3E5EF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M5.5,30 L8.87793805,30" id="Shape-Copy-3" stroke="#D3E5EF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M5.5,45 L8.87793805,45" id="Shape" stroke="#D3E5EF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M18,27 L40,27" id="Shape" stroke="#4F5661" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M18,33 L36,33" id="Shape" stroke="#4F5661" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M18,21 L33,21" id="Shape" stroke="#4F5661" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M18,39 L32,39" id="Shape" stroke="#4F5661" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                <g id="CAN-Flag" transform="translate(17.000000, 6.000000)" fill="#FF8979">
+                    <g id="flag" transform="translate(-0.000000, 0.000000)">
+                        <rect id="Rectangle-15" x="0" y="0.536599371" width="3.69375" height="7.40902824"></rect>
+                        <rect id="Rectangle-15-Copy" x="10.30625" y="0.536599371" width="3.69375" height="7.40902824"></rect>
+                    </g>
+                    <g id="maple-leaf-38777" transform="translate(4.000000, 1.000000)" fill-rule="nonzero">
+                        <path d="M2.99982867,0.00171330668 L2.47615648,1.02291262 C2.41674072,1.13389377 2.31027756,1.1235968 2.20380925,1.06160423 L1.82465448,0.856350086 L2.10724729,2.42488235 C2.16666476,2.71145003 1.97602342,2.71145003 1.88191319,2.58753855 L1.22026842,1.8131068 L1.11284409,2.20637921 C1.10046236,2.25802513 1.04600114,2.31226842 0.96427984,2.2993518 L0.127603655,2.11542833 L0.34735237,2.950751 C0.394406625,3.13661051 0.431088521,3.21357224 0.299861222,3.26258995 L0.00166019417,3.40913078 L1.44193432,4.63227756 C1.49893604,4.67852998 1.52775557,4.76175557 1.50744603,4.83710337 L1.38138949,5.26961051 C1.87730611,5.20985037 2.32190919,5.15635237 2.81780868,5.0966522 C2.86187836,5.09608328 2.93494232,5.13524101 2.93463221,5.18830554 L2.86893718,6.77282296 L3.11005083,6.77282296 L3.07209081,5.19171502 C3.07179115,5.13862821 3.13804969,5.09608509 3.18211936,5.09665391 C3.67801885,5.15634723 4.12262193,5.20984523 4.61853855,5.26961222 L4.49248201,4.83710508 C4.47217247,4.76175043 4.50099063,4.67852484 4.55799372,4.63227927 L5.99826785,3.4091325 L5.70006682,3.26259166 C5.56884123,3.21356882 5.60552142,3.13661222 5.65257567,2.95075271 L5.87232439,2.11543004 L5.0356482,2.29935351 C4.95392861,2.31227065 4.89946602,2.25802684 4.88708395,2.20638093 L4.77965962,1.81310851 L4.11801485,2.58754026 C4.02389949,2.71144489 3.83326328,2.71144489 3.89268075,2.42488407 L4.17527356,0.856351799 L3.79611879,1.06160594 C3.68964877,1.12359852 3.58318903,1.13389549 3.52377156,1.02291433" id="Shape"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

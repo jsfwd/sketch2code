@@ -1,0 +1,41 @@
+/**
+ * This just contains styles related to this app "sketch2code" and doesn't contain any site code
+ */
+.site-message-visible {
+	.site-header,
+	.site-content,
+	.site-footer {
+		opacity: 0.3;
+	}
+}
+
+.site-message {
+	position: absolute;
+	z-index: 1;
+	top: 3rem;
+	left: 50%;
+	-webkit-transform: translateX(-50%);
+	transform: translateX(-50%);
+	width: 80%;
+	max-width: 460px;
+	margin: 0 auto;
+	padding: 2rem;
+	background: rgba(0, 0, 0, 0.7);
+	border-radius: 0.8rem;
+	color: #fff;
+	text-align: center;
+	transition: opacity ease-out 200ms;
+	opacity: 0;
+
+	.site-message-visible & {
+		opacity: 1;
+	}
+
+	code {
+		display: block;
+		margin-top: 1rem;
+		font-size: 2rem;
+		font-weight: bold;
+	}
+
+}

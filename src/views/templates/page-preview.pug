@@ -1,0 +1,20 @@
+html
+  head
+    
+    if title != null
+      title #{title}
+    else
+      title Demo
+      
+    block styles
+      link(rel='stylesheet', href='/assets/style.css')
+      link(rel='shortcut icon' type='image/x-icon' href='/assets/favicon.ico')
+  body(class='site-message-visible')
+    block message
+        include ../app/note-preview.pug
+    block header
+        include ../layout/header.pug
+    block content
+      div.site-content!= content
+    block footer
+      include ../layout/footer.pug

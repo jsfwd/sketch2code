@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="19px" viewBox="0 0 22 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>Glyph/ Review taxes</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="10.99995 19 0 19 0 0 10.99995 0 21.9999 0 21.9999 19"></polygon>
+    </defs>
+    <g id="Glyph/-Review-taxes" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Page-1">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Clip-2"></g>
+            <path d="M11.6699,14.5 C10.9649,14.49 10.2739,14.293 9.6699,13.93 L6.3999,17.2 L4.9899,15.79 L8.2599,12.52 C7.8969,11.915 7.6999,11.225 7.6909,10.52 C7.6909,8.311 9.4809,6.52 11.6909,6.52 C13.8989,6.52 15.6909,8.311 15.6909,10.52 C15.6909,12.729 13.8989,14.52 11.6909,14.52 L11.6699,14.5 Z M8.4999,4 L-0.0001,4 L-0.0001,17 C-0.0001,18.104 0.8959,19 1.9999,19 L19.9999,19 C21.1049,19 21.9999,18.104 21.9999,17 L21.9999,4 L8.4999,4 Z M5.4999,0 L-0.0001,0 L-0.0001,3 L7.7499,3 L5.4999,0 Z M11.6699,8.5 C12.7739,8.5 13.6699,9.396 13.6699,10.5 C13.6699,11.604 12.7739,12.5 11.6699,12.5 C10.5659,12.5 9.6699,11.604 9.6699,10.5 C9.6699,9.396 10.5659,8.5 11.6699,8.5 Z" id="Fill-1" fill="#4A5D68" mask="url(#mask-2)"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>Glyph/ own home</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="-2.71050543e-20 10.7428 -2.71050543e-20 22 21.338 22 21.338 -2.16840434e-19 -2.71050543e-20 -2.16840434e-19 -2.71050543e-20 10.7428 -0.0001 -0.00045 21.3379 -0.00045 21.3379 10.7428"></polygon>
+    </defs>
+    <g id="Glyph/-own-home" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Page-1">
+            <g id="Group-3" transform="translate(0.000000, 0.000200)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Clip-2"></g>
+                <path d="M11.3379,0.2568 C10.9569,-0.0862 10.3809,-0.0862 9.9999,0.2568 L-0.0001,9.2568 L1.3379,10.7428 L10.6689,2.3448 L19.9999,10.7428 L21.3379,9.2568 L11.3379,0.2568 Z" id="Fill-1" fill="#616974" mask="url(#mask-2)"></path>
+            </g>
+            <path d="M10.3306,17.05 L9.7416,18 L6.0556,14.77 L7.3096,13.335 L9.3426,15.112 C10.7666,13.034 12.6236,11.291 14.7866,10 L15.6796,11.682 C13.4976,13.024 11.6646,14.863 10.3306,17.05 Z M10.6686,4.09 L3.6686,10.39 L3.6686,21 C3.6686,21.55 4.1196,22 4.6686,22 L16.6686,22 C17.2186,22 17.6686,21.55 17.6686,21 L17.6686,10.39 L10.6686,4.09 Z" id="Fill-4" fill="#616974"></path>
+        </g>
+    </g>
+</svg>

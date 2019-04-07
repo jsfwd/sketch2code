@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="22px" viewBox="0 0 21 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>Glyph/ FAQ</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="21 10.9374 21 21.8745 0 21.8745 0 10.9374 0 0.0003 21 0.0003"></polygon>
+    </defs>
+    <g id="Glyph/-FAQ" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Page-1">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Clip-2"></g>
+            <path d="M11.313,10.0273 L11.14,11.3633 L9.442,11.3633 L9.069,8.4433 L9.276,8.2443 L9.347,8.2413 C10.692,8.2003 12.294,7.8853 12.294,6.6163 C12.294,5.7433 11.621,5.2213 10.536,5.2213 C9.567,5.2213 8.733,5.6153 7.912,6.4593 L7.779,6.5943 L6.25,5.0163 L6.374,4.8803 C7.521,3.6153 8.9,3.0003 10.587,3.0003 C13.116,3.0003 14.75,4.3813 14.75,6.5183 C14.75,8.4153 13.562,9.6153 11.313,10.0273 Z M8.928,15.0003 L11.57,15.0003 L11.57,12.3523 L8.928,12.3523 L8.928,15.0003 Z M2,0.0003 C0.896,0.0003 0,0.8953 0,2.0003 L0,17.0003 L0,21.8753 L4.2,18.0003 L19,18.0003 C20.105,18.0003 21,17.1043 21,16.0003 L21,0.0003 L2,0.0003 Z" id="Fill-1" fill="#616974" mask="url(#mask-2)"></path>
+        </g>
+    </g>
+</svg>

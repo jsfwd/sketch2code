@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="60px" viewBox="0 0 48 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>cra documents</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="⚙️-Icons-–-2017" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icons" transform="translate(-2161.000000, -2160.000000)">
+            <g id="cra-documents" transform="translate(2162.000000, 2161.000000)">
+                <path d="M0,0 L35.9,0 C39.4,3.5 42.4,6.5 46,10.1 L46,58 L0,58 L0,0 Z" id="Shape" stroke="#4F5661" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                <polyline id="Shape" stroke="#4F5661" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="36 0 36 11 46 11"></polyline>
+                <path d="M9,26 L33,26" id="Shape" stroke="#4F5661" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M9,40 L34,40" id="Shape" stroke="#4F5661" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M9,33 L37,33" id="Shape" stroke="#4F5661" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M9,47 L28,47" id="Shape" stroke="#4F5661" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                <g id="CAN-Flag" transform="translate(7.000000, 7.000000)" fill="#FF8979">
+                    <g id="flag" transform="translate(-0.000000, 0.000000)">
+                        <rect id="Rectangle-15" x="0" y="0.830451408" width="5.80446429" height="11.4663532"></rect>
+                        <rect id="Rectangle-15-Copy" x="16.1955357" y="0.830451408" width="5.80446429" height="11.4663532"></rect>
+                    </g>
+                    <g id="maple-leaf-38777" transform="translate(6.285714, 1.547619)" fill-rule="nonzero">
+                        <path d="M4.71401648,0.00265154606 L3.89110304,1.58307906 C3.79773542,1.7548356 3.63043616,1.73889981 3.46312882,1.64295892 L2.86731419,1.3253037 L3.31138859,3.75279412 C3.40475891,4.19629171 3.10517965,4.19629171 2.95729216,4.00452395 L1.91756466,2.80599861 L1.748755,3.41463449 C1.729298,3.4945627 1.64371608,3.57851065 1.51529689,3.55852064 L0.200520029,3.27387717 L0.545839439,4.56663845 C0.619781839,4.85427817 0.677424818,4.97338562 0.471210492,5.04924635 L0.00260887656,5.27603573 L2.26589679,7.16900098 C2.35547091,7.24058212 2.40075875,7.36938362 2.36884376,7.48599331 L2.17075492,8.1553496 C2.95005246,8.06286367 3.64871445,7.98006914 4.42798507,7.88767602 C4.49723742,7.88679555 4.61205222,7.94739679 4.6115649,8.02952048 L4.50832985,10.4817498 L4.88722273,10.4817498 L4.82757127,8.03479705 C4.82710038,7.9526389 4.93122093,7.88679836 5.00047328,7.88767867 C5.7797439,7.98006119 6.47840589,8.06285572 7.25770343,8.15535225 L7.05961459,7.48599596 C7.0276996,7.36937566 7.07298528,7.24057416 7.16256156,7.16900363 L9.42584947,5.27603839 L8.95724786,5.049249 C8.75103622,4.97338031 8.80867651,4.85428082 8.88261891,4.5666411 L9.22793832,3.27387982 L7.91316146,3.55852329 C7.78474496,3.57851409 7.69916089,3.49456535 7.67970335,3.41463715 L7.51089369,2.80600126 L6.47116619,4.0045266 C6.32327062,4.19628376 6.02369944,4.19628376 6.11706976,3.75279677 L6.56114416,1.32530636 L5.96532953,1.64296157 C5.7980195,1.73890246 5.63072563,1.75483826 5.53735531,1.58308171" id="Shape"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,23 @@
+/* decisions made based on design tokens */
+/* @see: https://medium.com/eightshapes-llc/tokens-in-design-systems-25dd82d58421 */
+
+$app-background: $color-white;
+$app-text-color: $color-gray-01;
+$app-text-font-family: $font-family;
+$app-text-line-height: $font-line-height;
+
+$header-background: $color-blue-02;
+$header-text-color: $color-white;
+
+$footer-background: $color-gray-07;
+$footer-text-color: $color-gray-01;
+
+$layout-breakpoint-lg: 1200px;
+$layout-breakpoint-md: 992px;
+$layout-breakpoint-sm: 768px;
+
+$layout-gutter: 1.5rem;
+$layout-margin: 3rem;
+$layout-margin-sm: 1.5rem;
+
+$content-placeholder-color: $color-gray-05;

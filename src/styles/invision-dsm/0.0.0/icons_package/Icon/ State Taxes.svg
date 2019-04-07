@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="55px" height="60px" viewBox="0 0 55 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon/ State Taxes</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 60 55 60 55 0 0 0"></polygon>
+    </defs>
+    <g id="Icon/-State-Taxes" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="State-Taxes">
+            <polygon id="Fill-1" fill="#D3E5EF" points="13 54 24 54 24 31 13 31"></polygon>
+            <g id="Group-21">
+                <path d="M4,26 L4,28 C4,28.5517153 4.44828475,29 5,29 L51,29 C51.5517153,29 52,28.5517153 52,28 L52,26 L4,26 Z M2,28 L2,25 C2,24.4477153 2.44771525,24 3,24 L53,24 C53.5522847,24 54,24.4477153 54,25 L54,28 C54,29.6562847 52.6562847,31 51,31 L5,31 C3.34371525,31 2,29.6562847 2,28 Z" id="Stroke-2" fill="#4B5E69" fill-rule="nonzero"></path>
+                <polygon id="Stroke-4" fill="#4B5E69" fill-rule="nonzero" points="8 31 12 31 12 49 14 49 14 29 6 29 6 49 8 49"></polygon>
+                <path d="M4,56 L51,56 C51.5522847,56 52,55.5522847 52,55 C52,54.4477153 51.5522847,54 51,54 L4,54 C3.44771525,54 3,54.4477153 3,55 C3,55.5522847 3.44771525,56 4,56 Z" id="Stroke-6" fill="#4B5E69" fill-rule="nonzero"></path>
+                <path d="M1,60 L54,60 C54.5522847,60 55,59.5522847 55,59 C55,58.4477153 54.5522847,58 54,58 L1,58 C0.44771525,58 0,58.4477153 0,59 C0,59.5522847 0.44771525,60 1,60 Z" id="Stroke-8" fill="#4B5E69" fill-rule="nonzero"></path>
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Clip-11"></g>
+                <polygon id="Fill-10" fill="#D3E5EF" mask="url(#mask-2)" points="32 54 43 54 43 31 32 31"></polygon>
+                <path d="M13,48 C14.1050942,48 15,48.8955243 15,50 L15,56 L5,56 L5,50 C5,48.8955243 5.89490584,48 7,48 L13,48 Z M13,54 L13,50 L7,50 L7,54 L13,54 Z" id="Stroke-12" fill="#4B5E69" fill-rule="nonzero" mask="url(#mask-2)"></path>
+                <polygon id="Stroke-13" fill="#4B5E69" fill-rule="nonzero" mask="url(#mask-2)" points="30 31 30 49 32 49 32 29 24 29 24 49 26 49 26 31"></polygon>
+                <path d="M31,48 C32.1050942,48 33,48.8955243 33,50 L33,56 L23,56 L23,50 C23,48.8955243 23.8949058,48 25,48 L31,48 Z M31,54 L31,50 L25,50 L25,54 L31,54 Z" id="Stroke-14" fill="#4B5E69" fill-rule="nonzero" mask="url(#mask-2)"></path>
+                <polygon id="Stroke-15" fill="#4B5E69" fill-rule="nonzero" mask="url(#mask-2)" points="48 31 48 49 50 49 50 29 42 29 42 49 44 49 44 31"></polygon>
+                <path d="M49,48 C50.1050942,48 51,48.8955243 51,50 L51,56 L41,56 L41,50 C41,48.8955243 41.8949058,48 43,48 L49,48 Z M49,54 L49,50 L43,50 L43,54 L49,54 Z" id="Stroke-16" fill="#4B5E69" fill-rule="nonzero" mask="url(#mask-2)"></path>
+                <path d="M27.4733766,9.17010755 C27.817649,8.93865875 28.2690725,8.94380102 28.6079832,9.18303214 L49.8579832,24.1830321 C50.6550949,24.7456992 50.2569953,26 49.2813,26 L5.7193,26 C4.7318955,26 4.34193706,24.7210036 5.1613766,24.1701075 L27.4733766,9.17010755 Z M8.99912742,24 L46.130579,24 L28.0174679,11.2142745 L8.99912742,24 Z" id="Stroke-17" fill="#4B5E69" fill-rule="nonzero" mask="url(#mask-2)"></path>
+                <path d="M31.5,18.5 C31.5,20.433 29.933,22 28,22 C26.067,22 24.5,20.433 24.5,18.5 C24.5,16.567 26.067,15 28,15 C29.933,15 31.5,16.567 31.5,18.5" id="Fill-18" fill="#5BBF89" mask="url(#mask-2)"></path>
+                <path d="M27,1 L27,6 C27,6.55228475 27.4477153,7 28,7 C28.5522847,7 29,6.55228475 29,6 L29,1 C29,0.44771525 28.5522847,0 28,0 C27.4477153,0 27,0.44771525 27,1 Z" id="Stroke-19" fill="#4B5E69" fill-rule="nonzero" mask="url(#mask-2)"></path>
+                <path d="M30,6.9999 L30,11.3899 C30,11.9421847 30.4477153,12.3899 31,12.3899 C31.5522847,12.3899 32,11.9421847 32,11.3899 L32,5.9999 C32,5.44761525 31.5522847,4.9999 31,4.9999 L25,4.9999 C24.4477153,4.9999 24,5.44761525 24,5.9999 L24,11.3599 C24,11.9121847 24.4477153,12.3599 25,12.3599 C25.5522847,12.3599 26,11.9121847 26,11.3599 L26,6.9999 L30,6.9999 Z" id="Stroke-20" fill="#4B5E69" fill-rule="nonzero" mask="url(#mask-2)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

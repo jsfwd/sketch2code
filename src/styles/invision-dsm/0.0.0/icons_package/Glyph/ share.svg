@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="15px" height="22px" viewBox="0 0 15 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>Glyph/ share</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0.00394055894 0 10.9963158 0 10.9963158 13 0.00394055894 13 0.00394055894 7.10542736e-15"></polygon>
+    </defs>
+    <g id="Glyph/-share" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Page-1">
+            <g id="Group-3" transform="translate(2.000000, -0.000200)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Clip-2"></g>
+                <path d="M0.6553,6 L4.0003,6 L4.0003,13 L7.0003,13 L7.0003,6 L10.3443,6 C10.9243,6 11.2143,5.3 10.8043,4.891 L6.2073,0.293 C5.8163,-0.098 5.1833,-0.098 4.7933,0.293 L0.1953,4.891 C-0.2137,5.3 0.0763,6 0.6553,6" id="Fill-1" fill="#4A5D68" mask="url(#mask-2)"></path>
+            </g>
+            <path d="M11.542,8.1795 L10.458,9.8605 C12.05,10.8865 13,12.6205 13,14.4995 C13,17.5325 10.532,19.9995 7.5,19.9995 C4.468,19.9995 2,17.5325 2,14.4995 C2,12.6205 2.95,10.8865 4.542,9.8605 L3.458,8.1795 C1.293,9.5755 0,11.9375 0,14.4995 C0,18.6355 3.364,21.9995 7.5,21.9995 C11.636,21.9995 15,18.6355 15,14.4995 C15,11.9375 13.707,9.5755 11.542,8.1795" id="Fill-4" fill="#4A5D68"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,20 @@
+html {
+	font-size: 62.5%;
+}
+
+body {
+	@include font-size(1.6);
+}
+
+body {
+	font-family: $app-text-font-family;
+	//line-height: $app-text-line-height;
+	color: $app-text-color;
+}
+
+button,
+input,
+select,
+textarea {
+	font-size: inherit;
+}

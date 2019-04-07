@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>Glyph/ Camera Low Light</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0.0002 0 22 0 22 21.9996 0.0002 21.9996"></polygon>
+    </defs>
+    <g id="Glyph/-Camera-Low-Light" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Page-1">
+            <g id="Group-3">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Clip-2"></g>
+                <path d="M17.6582,15.7676 C11.3432,15.7676 6.2322,10.6576 6.2322,4.3416 C6.2322,2.8046 6.5332,1.3296 7.0842,-0.0004 C2.9192,1.7136 0.0002,5.7956 0.0002,10.5746 C0.0002,16.8896 5.1102,21.9996 11.4262,21.9996 C16.2042,21.9996 20.2862,19.0806 22.0002,14.9156 C20.6712,15.4666 19.1952,15.7676 17.6582,15.7676" id="Fill-1" fill="#616974" mask="url(#mask-2)"></path>
+            </g>
+            <polygon id="Fill-4" fill="#616974" points="14.0762 9 17.0002 6.875 19.9242 9 18.8072 5.562 21.7312 3.438 18.1172 3.438 17.0002 0 15.8832 3.438 12.2682 3.438 15.1922 5.562"></polygon>
+        </g>
+    </g>
+</svg>

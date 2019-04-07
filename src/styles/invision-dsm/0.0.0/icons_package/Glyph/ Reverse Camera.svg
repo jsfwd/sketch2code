@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="19px" viewBox="0 0 22 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>Glyph/ Reverse Camera</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Glyph/-Reverse-Camera" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M17,10 L13,10 L14.278,8.722 C13.534,7.656 12.308,7 11,7 C8.794,7 7,8.794 7,11 L5,11 C5,7.691 7.691,5 11,5 C12.842,5 14.583,5.861 15.712,7.288 L17,6 L17,10 Z M11,17 C9.158,17 7.417,16.139 6.288,14.712 L5,16 L5,12 L9,12 L7.722,13.278 C8.466,14.344 9.692,15 11,15 C13.206,15 15,13.206 15,11 L17,11 C17,14.309 14.309,17 11,17 Z M20,4 L16.179,4 L14.537,0 L11.985,0 L10.015,0 L7.463,0 L5.821,4 L2,4 C0.897,4 0,4.897 0,6 L0,17 C0,18.103 0.897,19 2,19 L20,19 C21.103,19 22,18.103 22,17 L22,6 C22,4.897 21.103,4 20,4 Z" id="Page-1" fill="#616974"></path>
+    </g>
+</svg>

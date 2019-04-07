@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="51px" height="61px" viewBox="0 0 51 61" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>online chat</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="⚙️-Icons-–-2017" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icons" transform="translate(-2417.000000, -2162.000000)">
+            <g id="online-chat" transform="translate(2418.000000, 2163.000000)">
+                <path d="M0,37 L0,28 L0,2 C0,0.9 0.9,0 2,0 L34,0 C35.1,0 36,0.9 36,2 L36,24 C36,25.1 35.1,26 34,26 L8.8,26 L0,37 Z" id="Shape" stroke="#4F5661" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                <polygon id="Shape" fill="#53C27C" fill-rule="nonzero" points="24.3 8.9 22.4 7 16 13.7 12.8 10.8 11 12.8 15.3 16.8 15.3 16.7 16.1 17.4"></polygon>
+                <path d="M14,30 L14,47.6085854 C14,49.1909266 14.9,50 16,50 L40.2,50 L49,59 L49,50 L49,28 C49,26.9 48.1,26 47,26 L39,26" id="Shape" stroke="#4F5661" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="18px" viewBox="0 0 22 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>Glyph/ Minimize Tilt</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 18 21.988 18 21.988 0 0 0"></polygon>
+    </defs>
+    <g id="Glyph/-Minimize-Tilt" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Page-1">
+            <g id="Group-3" transform="translate(0.000000, 3.000000)" fill="#616974">
+                <path d="M3.9683,0 L0.8683,0.343 C0.3183,0.404 -0.0617,0.844 0.0083,1.326 L2.0283,14.229 C2.0983,14.712 2.5983,15.055 3.1483,14.993 L3.9883,14.896 C3.9783,14.809 3.9683,14.721 3.9683,14.624 L3.9683,0 Z" id="Fill-1"></path>
+            </g>
+            <g id="Group-6" transform="translate(18.000000, 3.000000)" fill="#616974">
+                <path d="M3.1202,0.3428 L0.0202,-0.0002 L0.0202,14.6238 C0.0202,14.7208 0.0102,14.8088 0.0002,14.8968 L0.8402,14.9928 C1.3902,15.0548 1.8902,14.7118 1.9602,14.2288 L3.9802,1.3258 C4.0502,0.8438 3.6702,0.4048 3.1202,0.3428" id="Fill-4"></path>
+            </g>
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Clip-8"></g>
+            <path d="M6.968,14 L14.968,14 L14.968,2 L6.968,2 L6.968,14 Z M10.968,17 C10.416,17 9.968,16.553 9.968,16 C9.968,15.447 10.416,15 10.968,15 C11.521,15 11.968,15.447 11.968,16 C11.968,16.553 11.521,17 10.968,17 Z M15.968,0 L5.968,0 C5.416,0 4.968,0.447 4.968,1 L4.968,17 C4.968,17.553 5.416,18 5.968,18 L15.968,18 C16.521,18 16.968,17.553 16.968,17 L16.968,1 C16.968,0.447 16.521,0 15.968,0 Z" id="Fill-7" fill="#616974" mask="url(#mask-2)"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="19px" height="22px" viewBox="0 0 19 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>Glyph/ Delete</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Glyph/-Delete" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Page-1" fill="#616974">
+            <polygon id="Fill-1" points="6.6357 0.0004 5.4687 3.0004 -0.0003 3.0004 -0.0003 4.9994 18.9997 4.9994 18.9997 3.0004 13.3737 3.0004 12.3737 0.0004"></polygon>
+            <path d="M11,18 L13,18 L13,10 L11,10 L11,18 Z M6,18 L8,18 L8,10 L6,10 L6,18 Z M2,6 L2,20 C2,21.1 2.9,22 4,22 L15,22 C16.1,22 17,21.1 17,20 L17,6 L2,6 Z" id="Fill-2"></path>
+        </g>
+    </g>
+</svg>

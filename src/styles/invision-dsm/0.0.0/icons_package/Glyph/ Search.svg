@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>Glyph/ Search</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Glyph/-Search" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M7,12 C4.243,12 2,9.757 2,7 C2,4.243 4.243,2 7,2 C9.757,2 12,4.243 12,7 C12,9.757 9.757,12 7,12 Z M21.099,17.172 L15.629,11.704 L14.374,12.959 L12.707,11.293 C12.669,11.255 12.622,11.239 12.58,11.209 C13.467,10.036 14,8.581 14,7 C14,3.14 10.86,0 7,0 C3.14,0 0,3.14 0,7 C0,10.86 3.14,14 7,14 C8.581,14 10.036,13.467 11.209,12.58 C11.239,12.622 11.255,12.669 11.293,12.707 L12.959,14.374 L11.704,15.629 L15.492,19.422 L16.638,20.572 L17.169,21.103 L18.07,22 C19.976,21.492 21.492,19.976 22,18.07 L21.099,17.172 Z" id="Page-1" fill="#616974"></path>
+    </g>
+</svg>

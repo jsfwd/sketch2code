@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="52px" height="58px" viewBox="0 0 52 58" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon/ Import investment portfolio</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Icon/-Import-investment-portfolio" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Import-investment-portfolio" transform="translate(-1.000000, 0.000000)">
+            <path d="M52,20 L52,57 L2,57 L2,27.4142136 L9.41421356,20 L22,20 C22.5522847,20 23,19.5522847 23,19 C23,18.4477153 22.5522847,18 22,18 L9,18 C8.73478351,18 8.4804296,18.1053568 8.29289322,18.2928932 L0.292893219,26.2928932 C0.10535684,26.4804296 0,26.7347835 0,27 L0,58 C0,58.5522847 0.44771525,59 1,59 L53,59 C53.5522847,59 54,58.5522847 54,58 L54,19 C54,18.4477153 53.5522847,18 53,18 L34,18 C33.4477153,18 33,18.4477153 33,19 C33,19.5522847 33.4477153,20 34,20 L52,20 Z" id="Stroke-1" fill="#4B5E69" fill-rule="nonzero"></path>
+            <polygon id="Fill-3" fill="#5BBF89" points="39 50 43 50 43 29 39 29"></polygon>
+            <polygon id="Stroke-4" stroke="#5BBF89" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="39 50 43 50 43 29 39 29"></polygon>
+            <polygon id="Fill-5" fill="#D3E5EF" points="21 50 25 50 25 35 21 35"></polygon>
+            <polygon id="Stroke-6" stroke="#D3E5EF" stroke-width="2" stroke-linejoin="round" points="21 50 25 50 25 35 21 35"></polygon>
+            <polygon id="Fill-7" fill="#D3E5EF" points="30 50 34 50 34 38 30 38"></polygon>
+            <polygon id="Stroke-8" stroke="#D3E5EF" stroke-width="2" stroke-linejoin="round" points="30 50 34 50 34 38 30 38"></polygon>
+            <polygon id="Fill-9" fill="#D3E5EF" points="26 21 30 21 30 7 26 7"></polygon>
+            <polygon id="Stroke-10" stroke="#D3E5EF" stroke-width="2" stroke-linejoin="round" points="26 21 30 21 30 7 26 7"></polygon>
+            <polygon id="Fill-11" fill="#D3E5EF" points="12 50 16 50 16 43 12 43"></polygon>
+            <polygon id="Stroke-12" stroke="#D3E5EF" stroke-width="2" stroke-linejoin="round" points="12 50 16 50 16 43 12 43"></polygon>
+            <polygon id="Fill-13" fill="#D3E5EF" points="28 10 36.182 10 28 0 19.818 10"></polygon>
+            <g id="Group-18">
+                <polygon id="Stroke-14" stroke="#D3E5EF" stroke-width="2" stroke-linejoin="round" points="28 10 36.182 10 28 0 19.818 10"></polygon>
+                <path d="M1,27 C0.44771525,27 0,27.4477153 0,28 C0,28.5522847 0.44771525,29 1,29 L10,29 C10.5522847,29 11,28.5522847 11,28 L11,19 C11,18.4477153 10.5522847,18 10,18 C9.44771525,18 9,18.4477153 9,19 L9,27 L1,27 Z" id="Stroke-16" fill="#4B5E69" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>

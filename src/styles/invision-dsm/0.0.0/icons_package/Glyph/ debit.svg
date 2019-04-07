@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="21px" viewBox="0 0 22 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>Glyph/ debit</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="-0.0004 7 5.9996 7 5.9996 0.0001 -0.0004 0.0001 -0.0004 7"></polygon>
+    </defs>
+    <g id="Glyph/-debit" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Page-1">
+            <path d="M20,0 L1,0 C0.447,0 0,0.448 0,1 L0,3 L21,3 L21,1 C21,0.448 20.553,0 20,0" id="Fill-1" fill="#4B5E69"></path>
+            <path d="M0,6 L0,14 C0,14.55 0.45,15 1,15 L14.7,15 L14.7,12.7 L18.54,12.7 C19.46,12.7 20.29,12.93 21,13.35 L21,6 L0,6 Z M2,13 L7,13 L7,11 L2,11 L2,13 Z" id="Fill-3" fill="#4B5E69"></path>
+            <g id="Group-7" transform="translate(16.000000, 14.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Clip-6"></g>
+                <path d="M1.4326,1.3901 L1.4326,5.6101 L2.5396,5.6101 C3.7106,5.6101 4.5016,4.7601 4.5016,3.5201 L4.5016,3.5001 C4.5016,2.2601 3.7106,1.3901 2.5396,1.3901 L1.4326,1.3901 Z M-0.0004,0.0001 L2.5396,0.0001 C4.5856,0.0001 5.9996,1.5101 5.9996,3.4801 L5.9996,3.5001 C5.9996,5.4701 4.5856,7.0001 2.5396,7.0001 L-0.0004,7.0001 L-0.0004,0.0001 Z" id="Fill-5" fill="#4B5E69" mask="url(#mask-2)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

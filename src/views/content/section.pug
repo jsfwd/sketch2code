@@ -1,0 +1,29 @@
+<div class="section section-rtb text-center">
+	<div class="container">  
+
+		<div class="col-md-6 col-md-offset-3">
+		if title == ' '
+			
+		else if title != null
+			h2 #{title}
+		else
+			h2 Section title
+
+		if imageBadge != null
+			div(class='image image-badge')!= imageBadge
+		else
+			div(class='image image-badge') <img src="https://intuitglobal.intuit.com/delivery/cms/prod/sites/default/turbotax.intuit.ca/images/icons/rtb/max-refund.svg"/>
+
+		if itemTitle != null
+			strong #{itemTitle}
+		else
+			strong Get your maximum refund
+
+		if itemDescription != null
+			p #{itemDescription}
+		else
+			p If you get a larger refund or smaller tax due from another tax preparation method, we'll refund the TurboTax purchase price.
+		</div>
+
+	</div>
+</div>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="19px" viewBox="0 0 22 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>Glyph/ alert</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 19 22 19 22 0 0 0"></polygon>
+    </defs>
+    <g id="Glyph/-alert" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Page-1">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Clip-2"></g>
+            <path d="M12,12 L11,12 L10,12 L9,6 L11,6 L13,6 L12,12 Z M11,16 C10.172,16 9.5,15.329 9.5,14.5 C9.5,13.671 10.172,13 11,13 C11.828,13 12.5,13.671 12.5,14.5 C12.5,15.329 11.828,16 11,16 Z M21.754,16.483 L12.267,0.741 C11.671,-0.247 10.329,-0.247 9.733,0.741 L0.246,16.483 C-0.406,17.567 0.314,19 1.513,19 L20.487,19 C21.686,19 22.406,17.567 21.754,16.483 Z" id="Fill-1" fill="#4A5D68" mask="url(#mask-2)"></path>
+        </g>
+    </g>
+</svg>

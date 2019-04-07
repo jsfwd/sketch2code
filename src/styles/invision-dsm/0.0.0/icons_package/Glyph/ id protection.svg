@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="21px" viewBox="0 0 18 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>Glyph/ id protection</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Glyph/-id-protection" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Page-1" fill="#4A5D68">
+            <path d="M5,6.187 C5,4.176 6.33,2.45 8.162,2.083 C9.391,1.836 10.588,2.128 11.533,2.903 C12.466,3.667 13,4.795 13,5.999 L13,7.999 L15,7.999 L15,5.999 C15,4.193 14.198,2.501 12.801,1.356 C11.403,0.21 9.569,-0.239 7.77,0.122 C5.006,0.675 3,3.226 3,6.187 L3,7.999 L5,7.999 L5,6.187 Z" id="Fill-1"></path>
+            <path d="M10,15.7212 L10,17.9982 L8,17.9982 L8,15.7212 C7.404,15.3742 7,14.7372 7,13.9982 C7,12.8942 7.896,11.9982 9,11.9982 C10.104,11.9982 11,12.8942 11,13.9982 C11,14.7372 10.596,15.3742 10,15.7212 M17,8.9982 L1,8.9982 C0.447,8.9982 0,9.4462 0,9.9982 L0,19.9982 C0,20.5512 0.447,20.9982 1,20.9982 L17,20.9982 C17.553,20.9982 18,20.5512 18,19.9982 L18,9.9982 C18,9.4462 17.553,8.9982 17,8.9982" id="Fill-3"></path>
+        </g>
+    </g>
+</svg>

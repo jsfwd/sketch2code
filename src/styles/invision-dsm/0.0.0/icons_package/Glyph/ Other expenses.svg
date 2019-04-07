@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>Glyph/ Other expenses</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="-0.0004 7 16.858 7 16.858 0.0001 -0.0004 0.0001"></polygon>
+    </defs>
+    <g id="Glyph/-Other-expenses" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Page-1">
+            <polygon id="Fill-1" fill="#616974" points="0 20 2 20 2 14 0 14"></polygon>
+            <g id="Group-11" transform="translate(3.000000, 0.000000)">
+                <g id="Group-4" transform="translate(0.000000, 13.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Clip-3"></g>
+                    <path d="M15.6436,0.5181 C14.9336,-0.0539 13.9256,-0.0729 13.1956,0.4721 L8.7996,4.0001 L3.9996,4.0001 L3.9996,3.0001 L5.9996,3.0001 C7.1046,3.0001 7.9996,2.1041 7.9996,1.0001 L7.9996,0.0001 L2.9696,0.0001 C1.3306,0.0001 -0.0004,1.3301 -0.0004,2.9701 L-0.0004,7.0001 L10.0216,7.0001 C10.5106,7.0001 10.9836,6.8201 11.3496,6.4961 L16.8586,1.4931 L15.6436,0.5181 Z" id="Fill-2" fill="#616974" mask="url(#mask-2)"></path>
+                </g>
+                <path d="M7,11 C8.104,11 9,10.104 9,9 C9,7.896 8.104,7 7,7 C5.896,7 5,7.896 5,9 C5,10.104 5.896,11 7,11" id="Fill-5" fill="#616974"></path>
+                <path d="M13,8 C14.104,8 15,7.104 15,6 C15,4.896 14.104,4 13,4 C11.896,4 11,4.896 11,6 C11,7.104 11.896,8 13,8" id="Fill-7" fill="#616974"></path>
+                <path d="M8,4 C9.104,4 10,3.104 10,2 C10,0.896 9.104,0 8,0 C6.896,0 6,0.896 6,2 C6,3.104 6.896,4 8,4" id="Fill-9" fill="#616974"></path>
+            </g>
+        </g>
+    </g>
+</svg>

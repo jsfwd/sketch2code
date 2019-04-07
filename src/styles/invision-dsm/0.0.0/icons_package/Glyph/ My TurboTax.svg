@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>Glyph/ My TurboTax</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 0.0004 0 22 21.9997 22 21.9997 0.0004"></polygon>
+    </defs>
+    <g id="Glyph/-My-TurboTax" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Page-1">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Clip-2"></g>
+            <path d="M10.2617,14.6934 L9.4517,16.0004 L4.3827,11.5584 L6.1077,9.5864 L8.9037,12.0284 C10.8617,9.1724 13.4147,6.7744 16.3887,5.0004 L17.6167,7.3124 C14.6167,9.1584 12.0967,11.6874 10.2617,14.6934 M10.9997,0.0004 C4.9247,0.0004 -0.0003,4.9244 -0.0003,11.0004 C-0.0003,17.0754 4.9247,22.0004 10.9997,22.0004 C17.0747,22.0004 21.9997,17.0754 21.9997,11.0004 C21.9997,4.9244 17.0747,0.0004 10.9997,0.0004" id="Fill-1" fill="#616974" mask="url(#mask-2)"></path>
+        </g>
+    </g>
+</svg>
